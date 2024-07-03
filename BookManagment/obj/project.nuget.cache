@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vEYPFGOmSskhUFZAVhcf1G2tL1FiL3lEOKD7/7mdz+rZbajdcDos9qZGjidC+HNBORxsb98U/bJOWa4tX86KYg==",
+  "success": true,
+  "projectFilePath": "C:\\SZF_CSharp\\BookManagment\\BookManagment.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tfeye\\.nuget\\packages\\csvhelper\\33.0.1\\csvhelper.33.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
